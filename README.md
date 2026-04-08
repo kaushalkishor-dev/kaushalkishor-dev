@@ -26,7 +26,6 @@ I'm a passionate **MCA student** at Galgotias University, Greater Noida (CGPA: 7
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative web apps**.
 - 💬 Ask me about **React, Node.js, JavaScript, and REST APIs**.
 - 📫 How to reach me: **kkup.06009@gmail.com**
-- ⚡ Fun fact: I'm a geography enthusiast who loves turning ideas into code.
 
 ---
 
