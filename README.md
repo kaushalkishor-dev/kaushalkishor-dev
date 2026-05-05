@@ -33,30 +33,38 @@ I'm a passionate **MCA student** at Galgotias University, Greater Noida (CGPA: 7
 ## 🛠️ Tech Stack
 
 ### Frontend
-[HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[React](https://react.dev/)  
-[TailwindCSS](https://tailwindcss.com/docs)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 ---
 
 ### Backend
-[Node.js](https://nodejs.org/docs/latest/api/)  
-[Express.js](https://expressjs.com/)  
-[REST API](https://restfulapi.net/)  
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+
+[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+
+[![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://restfulapi.net/)
 
 ---
 
 ### Database
-[MongoDB](https://www.mongodb.com/docs/)  
-[MySQL](https://dev.mysql.com/doc/)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ---
 
 ### Tools & Version Control
-[Git](https://git-scm.com/doc)  
-[GitHub](https://docs.github.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ### Soft Skills
 - 🧩 Problem-Solving
